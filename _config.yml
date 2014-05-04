@@ -1,0 +1,8 @@
+name: "Jaime Rump's Blog"
+description: "I occasionally write about nerdy things"
+
+url: "jaimerump.com"
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
