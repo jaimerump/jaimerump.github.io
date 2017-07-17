@@ -6,3 +6,4 @@ url: "jaimerump.com"
 markdown: rdiscount
 permalink: pretty
 pygments: true
+theme: slate
